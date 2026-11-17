@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-initramfs"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-initramfs component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
